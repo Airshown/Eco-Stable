@@ -1,0 +1,6 @@
+AuthName "Page d'administration protégée"
+AuthType Basic
+AuthUserFile "/home/eq101517/html/.htpasswd"
+Require valid-user
+
+ErrorDocument 404 http://eco-stable.com/404.php
