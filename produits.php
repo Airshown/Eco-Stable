@@ -47,7 +47,7 @@
 							<article id="content">
 								<header>
 									<h2>Nos Produits</h2>
-									<span>Voici la liste de nos produits :</span>
+									<!-- <span>Voici la liste de nos produits :</span> -->
 								</header>
 								<!-- <a href="http://ineedchemicalx.deviantart.com/art/Pasadena-357650036" class="image full"><img src="images/pic06.jpg" alt="" /></a> -->
 							</article>
@@ -65,7 +65,7 @@
 							</div>
 
 							<header>
-								<h3>Types de colles</h3>
+								<h3>Vos Colis – Nos colles</h3>
 							</header>
 
 							<p>Texte ?</p>
@@ -83,7 +83,7 @@
 							</div>
 
 							<header>
-								<h3>Générateurs dépose colle</h3>
+								<h3>Système dépose colle</h3>
 							</header>
 
 							<p>Texte ?</p>

@@ -69,7 +69,7 @@
 
 					</div>
 
-					<div class="row proc">
+					<!-- <div class="row proc">
 
 						<h3>Choisissez un procédé :</h3>
 
@@ -79,7 +79,7 @@
 							<li>- <a href="#">Multi-supports</a>
 						</ul>
 
-					</div>
+					</div> -->
 
 				</section>
 
