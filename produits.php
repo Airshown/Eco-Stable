@@ -89,7 +89,7 @@
 							<p>Texte ?</p>
 
 							<ul class="actions">
-								<li><a href="generateurs.php" class="button">Voir nos générateurs</a></li>
+								<li><a href="generateurs.php" class="button">Voir nos équipements</a></li>
 							</ul>
 
 						</section>
