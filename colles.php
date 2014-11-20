@@ -47,12 +47,12 @@
 								<section id="sidebar">
 									<section>
 										<header>
-											<h3>Nos générateurs</h3>
+											<h3>Nos équipements</h3>
 										</header>
 										<a href="generateurs.php" class="image full"><img src="images/simple_generator.JPG" alt="" /></a>
 										<p>Texte ?</p>
 										<ul class="actions">
-											<li><a href="generateurs.php" class="button">Voir les générateurs</a></li>
+											<li><a href="generateurs.php" class="button">Voir les équipements</a></li>
 										</ul>
 									</section>
 								</section>
