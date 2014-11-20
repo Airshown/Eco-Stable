@@ -1023,8 +1023,8 @@ article, aside, details, figcaption, figure,footer, header, hgroup, menu, nav, s
 		left: -1000%;
 		top: 0;
 		z-index: 1;
-		box-shadow: inset 0px 0px 0px 1px #e8e8e8;
-		background: #f6f8fb url('images/image-wrapper.svg');
+		/*box-shadow: inset 0px 0px 0px 1px #e8e8e8;
+		background: #f6f8fb url('images/image-wrapper.svg');*/
 	}
 
 	#header-wrapper
